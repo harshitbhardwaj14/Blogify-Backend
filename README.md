@@ -1,5 +1,5 @@
 Blogify-Backend
-Description
+Description:
 Blogify-Backend is a basic backend for a blog website. It handles things like user signup, login, creating blog posts, and adding comments. This project was built to help understand how backends work with user accounts, posts, and other data.
 
 What it can do:
